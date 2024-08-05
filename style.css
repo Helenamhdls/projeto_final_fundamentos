@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+    color: darkblue;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+.btn-primary {
+    color: white;
+    background-color: darkblue;
+    border-color: darkgreen;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: darkblue;
+    border-color: darkgreen;
+}
+
+.btn-primary, .btn-primary:focus {
+    color: white;
+    background-color: darkblue;
+}
+
+.alert-success {
+    color: white;
+    background-color: darkgreen;
+    border-color: darkblue;
+}
